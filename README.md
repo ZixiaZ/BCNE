@@ -80,8 +80,8 @@ evaluate_monkey(mode_number=0, balance=1, round_seed=0)
    - Multiple recursion levels
 
 4. **Evaluation Metrics**:
-   - KNN classification accuracy
-   - Pearson correlation analysis
+   - KNN classification accuracy (Sherlock movie scene/location; Rat 'learning stage'&direction; Macaque direction)
+   - Position-Embedding RSA
    - Trustworthiness and continuity measures
    - Event segmentation analysis
 
